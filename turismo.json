@@ -1,0 +1,86 @@
+[
+{ "PTurist": "Mercado de Casa Amarela", 
+  "Descritv": "Inaugurado em 1930, as estruturas que sustentam a construção foram trazidas de bonde pela empresa Borrione, dois anos antes. Há uma oferta de produtos diversificada em seus boxes, tendo ainda bares e restaurantes populares na parte externa do mercado",
+  "l": -34.918071548881848, "t":-8.02673760435923,
+  "capa_big":"casaAmarela.jpg", "capa":"casaAmarela_P.jpg"
+} 
+,
+{ "PTurist": "Sitio da Trindade", "Descritv": "Dos tempos da invasão holandesa, nele foi erguido o Forte do Arraial do Bom Jesus, foco de resistência contra os invasores. Possui uma área verde de 6,5 hectares e um chalé de 600 m², hoje utilizado para atividades culturais. Toda a área do Sítio usada p" , "l": -34.911312270158589, "t": -8.028604676355068,
+  "capa_big":"sitioTrindade.jpg", "capa":"sitioTrindade_P.jpg" }
+,
+{ "PTurist": "Parque da Jaqueira", "Descritv": "É o maior da cidade, possui uma parte histórica, onde está a Capela de Nossa Senhora da Conceição das Barreiras, de 1766, tombada na década de 1970, e uma área reservada à prática de esportes e atividades culturais.", "l": -34.904586491940499, "t":-8.036703807374847,
+  "capa_big":"parqueJaqueira.jpg", "capa":"parqueJaqueira_P.jpg" }
+,
+{ "PTurist": "Museu do Estado", "Descritv": "Está localizado em um dos mais significativos exemplares arquitetônicos do século XIX: um grande casarão, que serviu de palacete, no bairro das Graças, onde viveu Augusto Frederico, o filho do Barão de Beberibe. Criado em 1929, o Museu tem hoje mais de 8", "l":  -34.901833123456036, "t":-8.044737685669819,
+  "capa_big":"museoEstado.jpg", "capa":"museoEstado_P.jpg" }
+,
+{ "PTurist": "Parque 13 de Maio", "Descritv": "Inaugurado em 1939, com 6,9 hectares, foi alvo de vários projetos de influência europeia entre 1860 e 1923. O projeto idealizado seguiu uma concepção renascentista e traz a marcação de dois eixos perpendiculares sugerindo dar continuidade aos jardins da", "l": -34.881493942212579, "t":-8.056986652003495,
+  "capa_big":"park13.jpg", "capa":"park13_P.jpg" }
+,
+{ "PTurist": "Praca da Republica", "Descritv": "Em frente ao Palácio do Campo das Princesas, é nela que está plantado um baobá secular, que pode, dizem, ter sido inspiração a Saint Exupéry, quando de sua passagem pelo Recife, antes de escrever O Pequeno Príncipe. No século XVII, era muito apreciada pe", "l": -34.877203505459157, "t": -8.060926540754673,
+  "capa_big":"pracarepublica.jpg", "capa":"pracarepublica_P.jpg" }
+,
+{ "PTurist": "Palacio da Justica", "Descritv": "Sede do Poder Judiciário de Pernambuco, abriga o Tribunal de Justiça do Estado. Passou a existir mediante o alvará de D. João VI, de 6 de fevereiro de 1821. À época, foi denominado Tribunal da Relação dePernambuco e instalou-se num espaço dentro do antig", "l":-34.877516789927405, "t":-8.061565287726506,
+  "capa_big":"palacioJustica.jpg", "capa":"palacioJustica_P.jpg" }
+,
+{ "PTurist": "Teatro Santa Izabel", "Descritv": "É um dos mais belos e reconhecidos do país, por ser Patrimônio Histórico e Artístico Nacional, tombado em 1949. Representa o primeiro e mais expressivo exemplar de Arquitetura Neoclássica em Pernambuco e um dos mais notáveis do País. Homenageando a Princ", "l": -34.878371566171815, "t": -8.060683817235947,
+  "capa_big":"teatroSantaIzabel.jpg", "capa":"teatroSantaIzabel_P.jpg" }
+,
+{ "PTurist": "Palacio dos Campos das Princesas", "Descritv": "É a sede administrativa do Poder Executivo de Pernambuco e é também considerado o primeiro horto zoobotânico das Américas em modelo europeu. Idealizado em 1786, foi construído em 1841. Em 1859, sofreu uma reforma para hospedar o imperador Dom Pedro II, a", "l": -34.877444704395231, "t":-8.060019108774526,
+  "capa_big":"palacioPrincesas.jpg", "capa":"palacioPrincesas_P.jpg" }
+,
+{ "PTurist": "Centro de Artesanato de Pernambuco", "Descritv": "Ao lado do Marco Zero, no Recife Antigo, conta com uma grande variedade de arte popular e artesanato local, além de um espaço gastronômico. São 16 mil peças de 500 artesãos de todas as regiões de Pernambuco, auditório climatizado, área de exposições, alé", "l": -34.870714628302046, "t":-8.062358865482242,
+  "capa_big":"centro-de-artesanato.jpg", "capa":"centro-de-artesanato_P.jpg" }
+,
+{ "PTurist": "Marco Zero", "Descritv": "É a Praça Barão de Rio Branco, conhecida como Marco Zero, pois indica, desde 1938, o quilômetro zero da cidade. Em 1999, recebeu o painel A Rosa dos Ventos do artista plástico pernambucano Cícero Dias. Em 2000, foi gravada, no chão, a frase Eu vi o mu", "l": -34.871136888101333, "t":-8.063155370289703,
+  "capa_big":"marcoZero.jpg", "capa":"marcoZero_P.jpg" }
+,
+{ "PTurist": "Forte das Cinco Pontas", "Descritv": "Construção holandesa de 1630, o Forte de São Tiago das Cinco Pontas foi pátio de batalhas e hoje abriga o Museu da Cidade do Recife. No local, o visitante pode desfrutar de um extenso acervo de documentos iconográficos sobre o Recife, além de 150 mil ima", "l": -34.880869241834382, "t":-8.071728082511333,
+  "foto":"forte5.jpg", "capa":"forte5_P.jpg" }
+,
+{ "PTurist": "Praia de Boa Viagem", "Descritv": "É o principal cartão postal do Recife. A orla tem aproximadamente 7 km, distribuídos por uma praia de águas mornas e claras, com extensa faixa de recifes naturais  daí o nome da cidade. Uma barreira de corais aflora na maré baixa, formando várias piscin" , "l": -34.895550625793184, "t": -8.122919541144251,
+  "capa_big":"boaviagem.jpg", "capa":"boaviagem_P.jpg" }
+,
+{ "PTurist": "Parque Dona Lindu", "Descritv": "O projeto é do renomado arquiteto Oscar Niemeyer e se destaca como espaço cultural e esportivo. Ocupa uma área de 27 mil m², com pista para caminhada, área para skatistas, quadra poliesportiva, parque infantil, além da Galeria Janete Costa e do Teatro Lu", "l": -34.904010606947367, "t":-8.141366309782507,
+  "capa_big":"donaLindu.jpg", "capa":"donaLindu_P.jpg" }
+,
+{ "PTurist": "Pracinha da Boa Viagem", "Descritv": "Na beira-mar da praia de Boa Viagem, abriga o templo mais antigo da região, a Igreja de Nossa Senhora de Boa Viagem, cujo documento mais antigo sobre a construção é datado de 1707. Em frente à igreja acontece uma tradicional feirinha de artesanato, souve", "l": -34.900298058879557, "t":-8.132126379799553,
+  "capa_big":"pracinha.jpg", "capa":"pracinha_P.jpg" }
+,
+{ "PTurist": "Lagoa do Araca", "Descritv": "É a única lagoa natural do Recife. Com vegetação densa, possui 14 hectares e foi inaugurada como Parque Ecológico Lagoa do Araçá em 1994, após passar por uma reforma de paisagismo e urbanização. O local, além dos manguezais, também possui a embira, espéc", "l": -34.915072494147196, "t":-8.09431334821921,
+  "capa_big":"lagoa.jpg", "capa":"lagoa_P.jpg" }
+,
+{ "PTurist": "Praca Maciel Pinheiro", "Descritv": "Foi inaugurada em 7 de setembro de 1876, em comemoração à vitória das tropas brasileiras na Guerra do Paraguai (1864-1870). O destaque é para uma fonte de pedra com leões, máscaras, ninfas e uma índia. Hoje o local também abriga uma estátua da escritora", "l": -34.885744407181384, "t":-8.062387994478561,
+  "capa_big":"pracaManoelPinheiro.jpg", "capa":"pracaManoelPinheiro_P.jpg" }
+,
+{ "PTurist": "Hotel Central", "Descritv": "É o hotel mais antigo do Recife, do fim da década de 20. Conserva, até hoje, sua fachada original. O prédio é um marco da época, com arquitetura classicista. O elevador, de ferro traçado, é o mesmo da sua inauguração. O hotel já hospedou figuras ilustres", "l": -34.887608955240658, "t":-8.061147240273471,
+  "capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
+,
+{ "PTurist": "Praca Chora Menino", "Descritv": "Reza a lenda que quem passava pela praça ouvia o choro de crianças, lamentando suas mortes ou de seus pais. Mas em setembro de 1831, ocorreu a revolta militar Setembrizada, cinco meses após Dom Pedro I abdicar do trono. Pedindo o seu retorno, soldados do", "l":-34.894942700039827, "t":-8.060296782923523,
+  "capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
+,
+{ "PTurist": "Matriz da Boa Vista", "Descritv": "Sua construção teve início em 1784, mas só foi concluída em 1889. A Irmandade do Sacramento da Santa Cruz já funcionava no Recife desde 1771. Para construir uma igreja, a Irmandade solicitou ao rei, em 1781, que lhe doasse um terreno na Boa Vista. A fach", "l":  -34.885302834151041, "t":-8.062855521448958,
+  "capa_big":"matrizBoaVista.jpg", "capa":"matrizBoaVista_P.jpg" }
+,
+{ "PTurist": "Rua Imperatriz Tereza Cristina", "Descritv": "Até a metade do século XIX, era conhecida como Rua do AterroOk da Boa Vista, já que o local era um aterro. A rua mudou de nome para homenagear a imperatriz, por conta de uma visita do Imperador Dom Pedro II e sua esposa a Pernambuco em 1859. Também foi nes", "l": -34.88445429088079, "t":-8.062915371358224,
+  "capa_big":"ruaImperatrizTeresaCristina.jpg", "capa":"ruaImperatrizTeresaCristina_P.jpg" }
+,
+{ "PTurist": "Ponte da Boa Vista", "Descritv": "Feita com trilhos de trem, comprados na Inglaterra, sua origem é do tempo dos holandeses. Em 1640, o conde Maurício de Nassau mandou construí-la, para que os moradores pudessem atravessar o rio Capibaribe para o bairro de Santo Antônio. A atual é de 1876", "l":  -34.881608580315131, "t":-8.063681189698679 ,
+  "capa_big":"pontedaboavista.jpg", "capa":"pontedaboavista_P.jpg"}
+,
+{ "PTurist": "Rua Nova", "Descritv": "Na época do domínio holandês, a rua era chamada Rua Nova da Casa da Pólvora. Em 1752, a Casa da Pólvora foi transferida para outro local. A partir de então, a rua foi denominada Rua Nova de Santo Antônio. A rua mudou de nome outras vezes, mas não caíram", "l": -34.879823070004583, "t":-8.064177650316957,
+  "capa_big":"ruaNova.jpg", "capa":"ruaNova_P.jpg" }
+,
+{ "PTurist": "Ponte Mauricio de Nassau", "Descritv": "Inaugurada em 1643, é a ponte mais antiga da América Latina, sendo a primeira ponte de grande porte do Brasil. Nas colunas da ponte, destaque para as estátuas de bronze, que foram produzidas pela fundição francesa Val DOsne, que fez a Estátua da Liberda" , "l": -34.87530040035675, "t":-8.063903385432701,
+  "capa_big":"ponteMauricioNassau.jpg", "capa":"ponteMauricioNassau_P.jpg" }
+,
+{ "PTurist": "Igreja Nossa Senhora da Conceicao dos Militares", "Descritv": "Os militares do Terço da Vila de Santo Antônio do Recife, em 1725, solicitaram ao rei a criação de uma Irmandade dos Militares, e a construção de uma igreja. Mas há registros que tal construção tenha começado em 1710. As obras acabaram em 1771, mas os ac", "l": -34.880128170960063, "t":-8.064310183520703,
+  "capa_big":"igrejaNossaSenhoraConceicao.jpg", "capa":"igrejaNossaSenhoraConceicao_P.jpg" }
+,
+{ "PTurist": "Estacao Recife do Metro", "Descritv": "Foi inaugurada pela Great Western em 1885, no Bairro de São José, com o objetivo de fazer parte da antiga Linha Sul de trem, conhecida como linha Recife - Maceió. Em 1971, a estação também se tornou o Museu do Trem. Em 1982, a Estação Central foi desativ", "l": -34.883374595298463, "t":-8.067165355789003,
+  "capa_big":"estacaoMetro.jpg", "capa":"estacaoMetro_P.jpg" }
+,
+{ "PTurist": "Casa da Cultura", "Descritv": "O prédio já foi a antiga Casa de Detenção do Recife, construída no século XIX, permanecendo como penitenciária durante 118 anos. Foi tombado pela Fundação do Patrimônio Histórico e Artístico de Pernambuco (Fundarpe) em 1980 e hoje possui uma enorme varie", "l": -34.883326360960062, "t":-8.066036791314648,
+  "capa_big":"casaCultura.jpg", "capa":"casaCultura_P.jpg" }
+
+]
