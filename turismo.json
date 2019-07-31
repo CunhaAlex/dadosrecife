@@ -1,84 +1,78 @@
 [
 { "titulo": "Mercado de Casa Amarela","gravadora": "Inaugurado em 1930, as estruturas que sustentam a construção foram trazidas de bonde pela empresa Borrione, dois anos antes. Há uma oferta de produtos diversificada em seus boxes, tendo ainda bares e restaurantes populares na parte externa do mercado",
-   "ano":1930,"formacao":["a","b"], "faixas":["a","b"], "capa_big":"casaAmarela.jpg", "capa":"casaAmarela_P.jpg"
+   "ano":1930,"formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa_big":"casaAmarela.jpg", "capa":"casaAmarela_P.jpg"
 } 
 ,
-{ "titulo": "Sitio da Trindade", "gravadora": "Dos tempos da invasão holandesa, nele foi erguido o Forte do Arraial do Bom Jesus, foco de resistência contra os invasores. Possui uma área verde de 6,5 hectares e um chalé de 600 m², hoje utilizado para atividades culturais. Toda a área do Sítio usada p" , "ano": 1935,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"sitioTrindade.jpg", "capa":"sitioTrindade_P.jpg" }
+{ "titulo": "Sitio da Trindade", "gravadora": "Dos tempos da invasão holandesa, nele foi erguido o Forte do Arraial do Bom Jesus, foco de resistência contra os invasores. Possui uma área verde de 6,5 hectares e um chalé de 600 m², hoje utilizado para atividades culturais. Toda a área do Sítio usada p" , "ano": 1974,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"sitioTrindade.jpg", "capa":"sitioTrindade_P.jpg" }
 ,
-{ "titulo": "Parque da Jaqueira", "gravadora": "É o maior da cidade, possui uma parte histórica, onde está a Capela de Nossa Senhora da Conceição das Barreiras, de 1766, tombada na década de 1970, e uma área reservada à prática de esportes e atividades culturais.", "ano": 1970,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"parqueJaqueira.jpg", "capa":"parqueJaqueira_P.jpg" }
+{ "titulo": "Parque da Jaqueira", "gravadora": "É o maior da cidade, possui uma parte histórica, onde está a Capela de Nossa Senhora da Conceição das Barreiras, de 1766, tombada na década de 1970, e uma área reservada à prática de esportes e atividades culturais.", "ano": 1985,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"parqueJaqueira.jpg", "capa":"parqueJaqueira_P.jpg" }
 ,
 { "titulo": "Museu do Estado", "gravadora": "Está localizado em um dos mais significativos exemplares arquitetônicos do século XIX: um grande casarão, que serviu de palacete, no bairro das Graças, onde viveu Augusto Frederico, o filho do Barão de Beberibe. Criado em 1929, o Museu tem hoje mais de 8", "ano": 1929,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"museoEstado.jpg", "capa":"museoEstado_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"museoEstado.jpg", "capa":"museoEstado_P.jpg" }
 ,
 { "titulo": "Parque 13 de Maio", "gravadora": "Inaugurado em 1939, com 6,9 hectares, foi alvo de vários projetos de influência europeia entre 1860 e 1923. O projeto idealizado seguiu uma concepção renascentista e traz a marcação de dois eixos perpendiculares sugerindo dar continuidade aos jardins da", "ano": 1939,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"park13.jpg", "capa":"park13_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"park13.jpg", "capa":"park13_P.jpg" }
 ,
 { "titulo": "Praca da Republica", "gravadora": "Em frente ao Palácio do Campo das Princesas, é nela que está plantado um baobá secular, que pode, dizem, ter sido inspiração a Saint Exupéry, quando de sua passagem pelo Recife, antes de escrever O Pequeno Príncipe. No século XVII, era muito apreciada pe", "ano": 1817,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"pracarepublica.jpg", "capa":"pracarepublica_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"pracarepublica.jpg", "capa":"pracarepublica_P.jpg" }
 ,
-{ "titulo": "Palacio da Justica", "gravadora": "Sede do Poder Judiciário de Pernambuco, abriga o Tribunal de Justiça do Estado. Passou a existir mediante o alvará de D. João VI, de 6 de fevereiro de 1821. À época, foi denominado Tribunal da Relação dePernambuco e instalou-se num espaço dentro do antig", "ano": 1827,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"palacioJustica.jpg", "capa":"palacioJustica_P.jpg" }
+{ "titulo": "Palacio da Justica", "gravadora": "Sede do Poder Judiciário de Pernambuco, abriga o Tribunal de Justiça do Estado. Passou a existir mediante o alvará de D. João VI, de 6 de fevereiro de 1821. À época, foi denominado Tribunal da Relação dePernambuco e instalou-se num espaço dentro do antig", "ano": 1821,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"palacioJustica.jpg", "capa":"palacioJustica_P.jpg" }
 ,
-{ "titulo": "Teatro Santa Izabel", "gravadora": "É um dos mais belos e reconhecidos do país, por ser Patrimônio Histórico e Artístico Nacional, tombado em 1949. Representa o primeiro e mais expressivo exemplar de Arquitetura Neoclássica em Pernambuco e um dos mais notáveis do País. Homenageando a Princ", "ano": 1821,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"teatroSantaIzabel.jpg", "capa":"teatroSantaIzabel_P.jpg" }
+{ "titulo": "Teatro Santa Izabel", "gravadora": "É um dos mais belos e reconhecidos do país, por ser Patrimônio Histórico e Artístico Nacional, tombado em 1949. Representa o primeiro e mais expressivo exemplar de Arquitetura Neoclássica em Pernambuco e um dos mais notáveis do País. Homenageando a Princ", "ano": 1850,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"teatroSantaIzabel.jpg", "capa":"teatroSantaIzabel_P.jpg" }
 ,
-{ "titulo": "Palacio dos Campos das Princesas", "gravadora": "É a sede administrativa do Poder Executivo de Pernambuco e é também considerado o primeiro horto zoobotânico das Américas em modelo europeu. Idealizado em 1786, foi construído em 1841. Em 1859, sofreu uma reforma para hospedar o imperador Dom Pedro II, a", "ano": 1949,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"palacioPrincesas.jpg", "capa":"palacioPrincesas_P.jpg" }
+{ "titulo": "Palacio dos Campos das Princesas", "gravadora": "É a sede administrativa do Poder Executivo de Pernambuco e é também considerado o primeiro horto zoobotânico das Américas em modelo europeu. Idealizado em 1786, foi construído em 1841. Em 1859, sofreu uma reforma para hospedar o imperador Dom Pedro II, a", "ano": 1841,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"palacioPrincesas.jpg", "capa":"palacioPrincesas_P.jpg" }
 ,
-{ "titulo": "Centro de Artesanato de Pernambuco", "gravadora": "Ao lado do Marco Zero, no Recife Antigo, conta com uma grande variedade de arte popular e artesanato local, além de um espaço gastronômico. São 16 mil peças de 500 artesãos de todas as regiões de Pernambuco, auditório climatizado, área de exposições, alé", "ano": 1786,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"centro-de-artesanato.jpg", "capa":"centro-de-artesanato_P.jpg" }
+{ "titulo": "Centro de Artesanato de Pernambuco", "gravadora": "Ao lado do Marco Zero, no Recife Antigo, conta com uma grande variedade de arte popular e artesanato local, além de um espaço gastronômico. São 16 mil peças de 500 artesãos de todas as regiões de Pernambuco, auditório climatizado, área de exposições, alé", "ano": 2017,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"centro-de-artesanato.jpg", "capa":"centro-de-artesanato_P.jpg" }
 ,
-{ "titulo": "Marco Zero", "gravadora": "É a Praça Barão de Rio Branco, conhecida como Marco Zero, pois indica, desde 1938, o quilômetro zero da cidade. Em 1999, recebeu o painel A Rosa dos Ventos do artista plástico pernambucano Cícero Dias. Em 2000, foi gravada, no chão, a frase Eu vi o mu", "ano": 1999,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"marcoZero.jpg", "capa":"marcoZero_P.jpg" }
+{ "titulo": "Marco Zero", "gravadora": "É a Praça Barão de Rio Branco, conhecida como Marco Zero, pois indica, desde 1938, o quilômetro zero da cidade. Em 1999, recebeu o painel A Rosa dos Ventos do artista plástico pernambucano Cícero Dias. Em 2000, foi gravada, no chão, a frase Eu vi o mu", "ano": 1938,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"marcoZero.jpg", "capa":"marcoZero_P.jpg" }
 ,
 { "titulo": "Forte das Cinco Pontas", "gravadora": "Construção holandesa de 1630, o Forte de São Tiago das Cinco Pontas foi pátio de batalhas e hoje abriga o Museu da Cidade do Recife. No local, o visitante pode desfrutar de um extenso acervo de documentos iconográficos sobre o Recife, além de 150 mil ima", "ano": 1630,
- "formacao":["a","b"], "faixas":["a","b"],"foto":"forte5.jpg", "capa":"forte5_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"foto":"forte5.jpg", "capa":"forte5_P.jpg" }
 ,
-{ "titulo": "Praia de Boa Viagem", "gravadora": "É o principal cartão postal do Recife. A orla tem aproximadamente 7 km, distribuídos por uma praia de águas mornas e claras, com extensa faixa de recifes naturais  daí o nome da cidade. Uma barreira de corais aflora na maré baixa, formando várias piscin" , "ano": 2000,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"boaviagem.jpg", "capa":"boaviagem_P.jpg" }
+{ "titulo": "Parque Dona Lindu", "gravadora": "O projeto é do renomado arquiteto Oscar Niemeyer e se destaca como espaço cultural e esportivo. Ocupa uma área de 27 mil m², com pista para caminhada, área para skatistas, quadra poliesportiva, parque infantil, além da Galeria Janete Costa e do Teatro Lu", "ano": 2011,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"donaLindu.jpg", "capa":"donaLindu_P.jpg" }
 ,
-{ "titulo": "Parque Dona Lindu", "gravadora": "O projeto é do renomado arquiteto Oscar Niemeyer e se destaca como espaço cultural e esportivo. Ocupa uma área de 27 mil m², com pista para caminhada, área para skatistas, quadra poliesportiva, parque infantil, além da Galeria Janete Costa e do Teatro Lu", "ano": 2000,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"donaLindu.jpg", "capa":"donaLindu_P.jpg" }
+{ "titulo": "Pracinha da Boa Viagem", "gravadora": "Na beira-mar da praia de Boa Viagem, abriga o templo mais antigo da região, a Igreja de Nossa Senhora de Boa Viagem, cujo documento mais antigo sobre a construção é datado de 1707. Em frente à igreja acontece uma tradicional feirinha de artesanato, souve", "ano": 1707,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"pracinha.jpg", "capa":"pracinha_P.jpg" }
 ,
-{ "titulo": "Pracinha da Boa Viagem", "gravadora": "Na beira-mar da praia de Boa Viagem, abriga o templo mais antigo da região, a Igreja de Nossa Senhora de Boa Viagem, cujo documento mais antigo sobre a construção é datado de 1707. Em frente à igreja acontece uma tradicional feirinha de artesanato, souve", "ano": 1990,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"pracinha.jpg", "capa":"pracinha_P.jpg" }
+{ "titulo": "Praca Maciel Pinheiro", "gravadora": "Foi inaugurada em 7 de setembro de 1876, em comemoração à vitória das tropas brasileiras na Guerra do Paraguai (1864-1870). O destaque é para uma fonte de pedra com leões, máscaras, ninfas e uma índia. Hoje o local também abriga uma estátua da escritora", "ano": 1876,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"pracaManoelPinheiro.jpg", "capa":"pracaManoelPinheiro_P.jpg" }
 ,
-{ "titulo": "Lagoa do Araca", "gravadora": "É a única lagoa natural do Recife. Com vegetação densa, possui 14 hectares e foi inaugurada como Parque Ecológico Lagoa do Araçá em 1994, após passar por uma reforma de paisagismo e urbanização. O local, além dos manguezais, também possui a embira, espéc", "ano": 1990,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"lagoa.jpg", "capa":"lagoa_P.jpg" }
-,
-{ "titulo": "Praca Maciel Pinheiro", "gravadora": "Foi inaugurada em 7 de setembro de 1876, em comemoração à vitória das tropas brasileiras na Guerra do Paraguai (1864-1870). O destaque é para uma fonte de pedra com leões, máscaras, ninfas e uma índia. Hoje o local também abriga uma estátua da escritora", "ano": 1900,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"pracaManoelPinheiro.jpg", "capa":"pracaManoelPinheiro_P.jpg" }
-,
-{ "titulo": "Hotel Central", "gravadora": "É o hotel mais antigo do Recife, do fim da década de 20. Conserva, até hoje, sua fachada original. O prédio é um marco da época, com arquitetura classicista. O elevador, de ferro traçado, é o mesmo da sua inauguração. O hotel já hospedou figuras ilustres", "ano": 2000,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
+{ "titulo": "Hotel Central", "gravadora": "É o hotel mais antigo do Recife, do fim da década de 20. Conserva, até hoje, sua fachada original. O prédio é um marco da época, com arquitetura classicista. O elevador, de ferro traçado, é o mesmo da sua inauguração. O hotel já hospedou figuras ilustres", "ano": 1950,
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
 ,
 { "titulo": "Praca Chora Menino", "gravadora": "Reza a lenda que quem passava pela praça ouvia o choro de crianças, lamentando suas mortes ou de seus pais. Mas em setembro de 1831, ocorreu a revolta militar Setembrizada, cinco meses após Dom Pedro I abdicar do trono. Pedindo o seu retorno, soldados do", "ano":1930,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"hotelCentral.jpg", "capa":"hotelCentral_P.jpg" }
 ,
 { "titulo": "Matriz da Boa Vista", "gravadora": "Sua construção teve início em 1784, mas só foi concluída em 1889. A Irmandade do Sacramento da Santa Cruz já funcionava no Recife desde 1771. Para construir uma igreja, a Irmandade solicitou ao rei, em 1781, que lhe doasse um terreno na Boa Vista. A fach", "ano": 1980,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"matrizBoaVista.jpg", "capa":"matrizBoaVista_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"matrizBoaVista.jpg", "capa":"matrizBoaVista_P.jpg" }
 ,
 { "titulo": "Rua Imperatriz Tereza Cristina", "gravadora": "Até a metade do século XIX, era conhecida como Rua do AterroOk da Boa Vista, já que o local era um aterro. A rua mudou de nome para homenagear a imperatriz, por conta de uma visita do Imperador Dom Pedro II e sua esposa a Pernambuco em 1859. Também foi nes", "ano": 1980,
- "formacao":["a","b"], "faixas":["a","b"], "capa_big":"ruaImperatrizTeresaCristina.jpg", "capa":"ruaImperatrizTeresaCristina_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa_big":"ruaImperatrizTeresaCristina.jpg", "capa":"ruaImperatrizTeresaCristina_P.jpg" }
 ,
 { "titulo": "Ponte da Boa Vista", "gravadora": "Feita com trilhos de trem, comprados na Inglaterra, sua origem é do tempo dos holandeses. Em 1640, o conde Maurício de Nassau mandou construí-la, para que os moradores pudessem atravessar o rio Capibaribe para o bairro de Santo Antônio. A atual é de 1876", "ano": 1876,
- "formacao":["a","b"], "faixas":["a","b"], "capa_big":"pontedaboavista.jpg", "capa":"pontedaboavista_P.jpg"}
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa_big":"pontedaboavista.jpg", "capa":"pontedaboavista_P.jpg"}
 ,
 { "titulo": "Rua Nova", "gravadora": "Na época do domínio holandês, a rua era chamada Rua Nova da Casa da Pólvora. Em 1752, a Casa da Pólvora foi transferida para outro local. A partir de então, a rua foi denominada Rua Nova de Santo Antônio. A rua mudou de nome outras vezes, mas não caíram", "ano": 1752, 
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"ruaNova.jpg", "capa":"ruaNova_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"ruaNova.jpg", "capa":"ruaNova_P.jpg" }
 ,
 { "titulo": "Ponte Mauricio de Nassau", "gravadora": "Inaugurada em 1643, é a ponte mais antiga da América Latina, sendo a primeira ponte de grande porte do Brasil. Nas colunas da ponte, destaque para as estátuas de bronze, que foram produzidas pela fundição francesa Val DOsne, que fez a Estátua da Liberda" , "ano": 1643, 
- "formacao":["a","b"], "faixas":["a","b"], "capa_big":"ponteMauricioNassau.jpg", "capa":"ponteMauricioNassau_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa_big":"ponteMauricioNassau.jpg", "capa":"ponteMauricioNassau_P.jpg" }
 ,
 { "titulo": "Igreja Nossa Senhora da Conceicao dos Militares", "gravadora": "Os militares do Terço da Vila de Santo Antônio do Recife, em 1725, solicitaram ao rei a criação de uma Irmandade dos Militares, e a construção de uma igreja. Mas há registros que tal construção tenha começado em 1710. As obras acabaram em 1771, mas os ac", "ano": 1771,
- "formacao":["a","b"], "faixas":["a","b"],"capa_big":"igrejaNossaSenhoraConceicao.jpg", "capa":"igrejaNossaSenhoraConceicao_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"],"capa_big":"igrejaNossaSenhoraConceicao.jpg", "capa":"igrejaNossaSenhoraConceicao_P.jpg" }
 ,
 { "titulo": "Estacao Recife do Metro", "gravadora": "Foi inaugurada pela Great Western em 1885, no Bairro de São José, com o objetivo de fazer parte da antiga Linha Sul de trem, conhecida como linha Recife - Maceió. Em 1971, a estação também se tornou o Museu do Trem. Em 1982, a Estação Central foi desativ", "ano": 1982,
-  "capa_big":"estacaoMetro.jpg", "formacao":["a","b"], "faixas":["a","b"], "capa":"estacaoMetro_P.jpg" }
+  "capa_big":"estacaoMetro.jpg", "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa":"estacaoMetro_P.jpg" }
 ,
 { "titulo": "Casa da Cultura", "gravadora": "O prédio já foi a antiga Casa de Detenção do Recife, construída no século XIX, permanecendo como penitenciária durante 118 anos. Foi tombado pela Fundação do Patrimônio Histórico e Artístico de Pernambuco (Fundarpe) em 1980 e hoje possui uma enorme varie", "ano": 1980, 
- "formacao":["a","b"], "faixas":["a","b"], "capa_big":"casaCultura.jpg", "capa":"casaCultura_P.jpg" }
+ "formacao":["Mestrado em Informática Aplicada"], "faixas":["Aluno: Alex Cunha","Prof: Gilberto Cysneiros"], "capa_big":"casaCultura.jpg", "capa":"casaCultura_P.jpg" }
 
 ]
